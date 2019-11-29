@@ -8,86 +8,76 @@ class PostList extends Component {
       {
         id: 1,
         author: {
-          name: 'Vanessa Romero',
-          avatar: 'https://i.pravatar.cc/150?img=1'
+          name: 'Clara Lisboa',
+          avatar: 'https://i.pravatar.cc/150?img=5'
         },
-        date: '04 Jun 2019',
-        content: 'Pessoal, alguém sabe se a Rocketseat está contratando?',
+        date: '28 Nov 2019',
+        content: 'Pessoal, Vocês viram o preço do Combo do Star Wars na Cinemark?',
         comments: [
           {
             id: 2,
             author: {
-              name: 'Diego Fernandes',
-              avatar: 'https://avatars2.githubusercontent.com/u/2254731?v=4'
+              name: 'Edison Junior',
+              avatar: 'https://avatars3.githubusercontent.com/u/44264221?s=400&u=95cb0fb0e4dd4b644f1e328dd69d7fd42a43ab7c&v=4'
             },
-            date: '04 Jun 2019',
+            date: '28 Nov 2019',
             content:
-              'A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)'
+              'Vi e está o cúmulo do absurdo!'
           }
         ]
       },
       {
         id: 3,
         author: {
-          name: 'Neil Cook',
-          avatar: 'https://i.pravatar.cc/150?img=8'
+          name: 'Willian Nunes',
+          avatar: 'https://i.pravatar.cc/150?img=15'
         },
-        date: '04 Jun 2019',
+        date: '27 Nov 2019',
         content:
-          'Fala galera, beleza?\nEstou fazendo o Bootcamp GoStack e está sendo muito massa! Alguém mais aí fazendo? Comenta aí na publicação para trocarmos uma idéia',
+          'Caramba... cadê o novo episódio de Mandalorian? :/\n#Chateado',
         comments: [
           {
             id: 4,
             author: {
-              name: 'Clara Lisboa',
-              avatar: 'https://i.pravatar.cc/150?img=5'
+              name: 'Edison Junior',
+              avatar: 'https://avatars3.githubusercontent.com/u/44264221?s=400&u=95cb0fb0e4dd4b644f1e328dd69d7fd42a43ab7c&v=4'
             },
-            date: '04 Jun 2019',
+            date: '28 Nov 2019',
             content:
-              'Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios construída!'
+              'Foi muitooo massa, simplismente incrível!!!'
           },
           {
             id: 5,
             author: {
-              name: 'Cézar Toledo',
-              avatar: 'https://i.pravatar.cc/150?img=11'
+              name: 'Clara Lisboa',
+              avatar: 'https://i.pravatar.cc/150?img=5'
             },
-            date: '04 Jun 2019',
+            date: '27 Nov 2019',
             content:
-              'Que maaaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes'
-          }
+              'Também estou to esperando, o último foi ótimo, o Bebê Yoda é super fofooo'
+          },
         ]
       },
       {
         id: 6,
         author: {
-          name: 'Gabriel Lisboa',
-          avatar: 'https://i.pravatar.cc/150?img=51'
+          name: 'Ricardo Alberto',
+          avatar: 'https://i.pravatar.cc/150?img=60'
         },
-        date: '04 Jun 2019',
+        date: '25 Nov 2019',
         content:
-          'Fala galera, beleza?\nEstou fazendo o Bootcamp GoStack e está sendo muito massa! Alguém mais aí fazendo? Comenta aí na publicação para trocarmos uma idéia',
+          'Por que esse dia não passa logo !? -_-',
         comments: [
           {
             id: 4,
             author: {
-              name: 'Clara Lisboa',
-              avatar: 'https://i.pravatar.cc/150?img=5'
+              name: 'Clarice Vulge',
+              avatar: 'https://i.pravatar.cc/150?img=30'
             },
-            date: '04 Jun 2019',
+            date: '28 Nov 2019',
             content:
-              'Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios construída!'
+              'Relaxa daqui a pouco passa!'
           },
-          {
-            id: 5,
-            author: {
-              name: 'Cézar Toledo',
-              avatar: 'https://i.pravatar.cc/150?img=11'
-            },
-            date: '04 Jun 2019',
-            content:
-              'Que maaaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes'
-          }
         ]
       }
     ]
